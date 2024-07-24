@@ -1,0 +1,28 @@
+{
+
+    "worlds": [
+        {
+            "Name": "MUNDO FARMA 1",
+            "Description": "Ipsum asd asd asd adsa",
+            "MainImage": "https://e0.pxfuel.com/wallpapers/466/677/desktop-wallpaper-phone-japanese-style-neon-shallows-japan-phone.jpg",
+            "BackgroundImage": "https://e0.pxfuel.com/wallpapers/466/677/desktop-wallpaper-phone-japanese-style-neon-shallows-japan-phone.jpg"
+
+        },
+        {
+            "Name": "MUNDO FARMA 2",
+            "Description": "Ipsum asd asd asd adsa",
+            "MainImage": "https://e1.pxfuel.com/desktop-wallpaper/133/280/desktop-wallpaper-aesthetic-anime-phone-anime-aesthetic-android.jpg",
+            "BackgroundImage": "https://e1.pxfuel.com/desktop-wallpaper/133/280/desktop-wallpaper-aesthetic-anime-phone-anime-aesthetic-android.jpg"
+
+        },
+        {
+            "Name": "MUNDO FARMA 3",
+            "Description": "Ipsum asd asd asd adsa",
+            "MainImage": "https://e1.pxfuel.com/desktop-wallpaper/981/747/desktop-wallpaper-motivational-phone-discipline-phone.jpg",
+            "BackgroundImage": "https://e1.pxfuel.com/desktop-wallpaper/981/747/desktop-wallpaper-motivational-phone-discipline-phone.jpg"
+
+        }
+
+    ]
+
+}

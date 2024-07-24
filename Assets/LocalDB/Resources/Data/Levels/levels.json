@@ -1,0 +1,28 @@
+{
+
+    "levels": [
+        {
+            "Name": "Nuevo nivel 1",
+            "MainImage": "https://e1.pxfuel.com/desktop-wallpaper/981/747/desktop-wallpaper-motivational-phone-discipline-phone.jpg",
+            "World": "MUNDO FARMA 1",
+            "StagesAmount": 3
+
+        },
+        {
+            "Name": "Nuevo nivel 2",
+            "MainImage": "https://e1.pxfuel.com/desktop-wallpaper/981/747/desktop-wallpaper-motivational-phone-discipline-phone.jpg",
+            "World": "MUNDO FARMA 1",
+            "StagesAmount": 3
+
+        },
+        {
+            "Name": "Nuevo nivel 3",
+            "MainImage": "https://e1.pxfuel.com/desktop-wallpaper/981/747/desktop-wallpaper-motivational-phone-discipline-phone.jpg",
+            "World": "MUNDO FARMA 1",
+            "StagesAmount": 3
+
+        }
+
+    ]
+
+}
