@@ -1,0 +1,48 @@
+{
+"quizInfo" :
+    [
+    {
+    "questionInfo" : "Pregunta1",
+    "questionImg" : "URL a recurso para descargar",
+    "questionClip" : "URL a recurso para descargar",
+    "questionVideo" : "URL a recurso para descargar",
+    "correctAns" : "Respuesstaa correcta",
+    "options" : [
+        "opt0", "opt1", "opt2", "opt3"
+    ],
+    "questionType" : 0
+    },
+    {
+    "questionInfo" : "Pregunta2",
+    "questionImg" : "URL a recurso para descargar",
+    "questionClip" : "URL a recurso para descargar",
+    "questionVideo" : "URL a recurso para descargar",
+    "correctAns" : "Respuesstaa correcta",
+    "options" : [
+        "opt0", "opt1", "opt2", "opt3"
+    ],
+    "questionType" : 0
+    },
+    {
+    "questionInfo" : "Pregunta3",
+    "questionImg" : "URL a recurso para descargar",
+    "questionClip" : "URL a recurso para descargar",
+    "questionVideo" : "URL a recurso para descargar",
+    "correctAns" : "Respuesstaa correcta",
+    "options" : [
+        "opt0", "opt1", "opt2", "opt3"
+    ],
+    "questionType" : 0
+    },
+    {
+    "questionInfo" : "Pregunta4",
+    "questionImg" : "URL a recurso para descargar",
+    "questionClip" : "URL a recurso para descargar",
+    "questionVideo" : "URL a recurso para descargar",
+    "correctAns" : "Respuesstaa correcta",
+    "options" : [
+        "opt0", "opt1", "opt2", "opt3"
+    ],
+    "questionType" : 0
+    }
+]}
