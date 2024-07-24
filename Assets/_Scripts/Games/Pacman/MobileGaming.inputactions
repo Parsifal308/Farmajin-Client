@@ -1,0 +1,86 @@
+{
+    "name": "MobileGaming",
+    "maps": [
+        {
+            "name": "Mobile",
+            "id": "d916776a-68da-41d5-b595-6f3666865d3b",
+            "actions": [
+                {
+                    "name": "PrimaryTouch",
+                    "type": "Value",
+                    "id": "63b81e43-ee2a-4b77-bbd0-d43999f9a47d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "PrimaryDelta",
+                    "type": "Value",
+                    "id": "0331b7bd-9f3b-4032-91d7-4683f889524f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "PrimaryPosition",
+                    "type": "Value",
+                    "id": "1fccccdd-fa51-4a24-a3ad-ce19854695b0",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d81efa5b-212b-43d6-a15c-89d41cb33da1",
+                    "path": "<Touchscreen>/primaryTouch/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Touch Screen",
+                    "action": "PrimaryDelta",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1d8d6232-c48d-41e0-b773-e9362378e723",
+                    "path": "<Touchscreen>/touch0/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Touch Screen",
+                    "action": "PrimaryPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "284f1570-ea84-4bf4-84f1-cb2a1ac75b5b",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Touch Screen",
+                    "action": "PrimaryTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Touch Screen",
+            "bindingGroup": "Touch Screen",
+            "devices": [
+                {
+                    "devicePath": "<Touchscreen>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
