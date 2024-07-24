@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c83e07835a652a744a9f9849c61d5146
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Reem Kufi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 81ed956d79d99c144ac9b59998cd5c7f, type: 3}
+  - {fileID: 12800000, guid: b68e4f77a137e4f468b5d1a9d250053c, type: 3}
+  - {fileID: 12800000, guid: 75a47582ca20819458755a604b29e244, type: 3}
+  - {fileID: 12800000, guid: a482a19e09624a847bef044ea098fc17, type: 3}
+  - {fileID: 12800000, guid: 65993e7a8350922469d3cb868314002a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
